@@ -60,10 +60,12 @@ a:hover{
 .img-circle {
 	border-radius: 50%;}
 
+<style type= »text/css »>
 
-.img:hover {
+img:hover {
 
--webkit-filter: grayscale(100%);
+-webkit-filter: grayscale(100%); 
+
 }
 
 </style>
